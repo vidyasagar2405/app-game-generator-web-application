@@ -71,8 +71,8 @@ Generated apps & games:
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/vidyasagar2405/n8n-streamlit-App-Game-Generator-Web-Application.git
-cd n8n-streamlit-App-Game-Generator-Web-Application
+git clone https://github.com/vidyasagar2405/app-game-generator-web-application.git
+cd app-game-generator-web-application
 ```
 
 ### 2️⃣ Install dependencies
