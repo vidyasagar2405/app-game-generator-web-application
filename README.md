@@ -1,5 +1,3 @@
-# n8n-streamlit-App-Game-Generator-Web-Application
-
 # 🚀 **AI App/Game Generator – Streamlit + n8n + Gemini LLM**
 
 An AI-powered application that automatically generates **Python App/Game code** using simple text prompts.
@@ -114,4 +112,4 @@ It contains:
 
 ## Demo Video:
 
-[Youtube](https://youtu.be/2Mxz_ihR6UU)
+## [Video](https://youtu.be/2Mxz_ihR6UU)
